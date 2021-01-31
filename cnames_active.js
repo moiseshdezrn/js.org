@@ -628,6 +628,7 @@ var cnames_active = {
   "deox": "deox.netlify.com",
   "deportes": "andreapins.github.io/Deportes-Gacetis",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
+  "deploy-page": "moiseshdezrn.github.io/deploy-page",
   "deskn": "dk83l5qmqg6z7q9m.shw.io",
   "detect-resize": "noderaider.github.io/detect-resize", // noCF? (don´t add this in a new PR)
   "detector": "blackmirror1980.github.io/detector-js",
